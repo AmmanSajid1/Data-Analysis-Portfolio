@@ -8,35 +8,47 @@ This repository is contains a portfolio of data analyst projects that I have com
 <br>
 <br>
 
-### 📑 Table of Contents
-- [Python]
-    - [Predict Customer Clicked Ads Classification]
-    - [Predict Customer Personality to Boost Marketing Campaign]
-    - [Investigate Hotel Business using Data Visualization]
-    - [Online Shoppers Purchasing Intention]
-    - [Airline Customer Segmentation Based on LRFMC Model Using K-Means]<br>
-<br>
-
-- [Dashboard]
-  - [Indonesia Covid-19 Dashboard]
-  - [Sales Report Dashboard]
-  - [Targeted Customer Demographic Dashboard]<br>
-<br>
-<br>
-<br>
 
 ## **Python**
-### 📂 Predict Clicked Ads Customer Classification
-*Mini Project by Rakamin Academy | Individual | [**Full Documentation**](https://github.com/faizns/Predict-Clicked-Ads-Customer-Classification) | [**Notebook**](https://github.com/faizns/Predict-Clicked-Ads-Customer-Classification/blob/main/Customer%20Clicked%20Ads%20Classification.ipynb)*<br>
+### 📂 Retail Product Sales Analytics
+[**Link**](https://github.com/AmmanSajid1/Retail-Product-Sales-Analytics)<br>
+<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy <br>
 <br>
 <br>
+### 📂 Africa Economic Banking and Systematic Crisis Analysis
+[**Link**](https://github.com/AmmanSajid1/Africa-Economic-Banking-and-Systematic-Crisis-Data)br>
 <br>
-⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn <br>
-💻 **Area** — Classification, Data Cleaning and Manipulation, Exploratory Data Analysis, Correlation Analysis, Feature Engineering, Data Modeling, Model Evaluation<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy <br>
+<br>
+<br>
+### 📂 Global Covid-19 Analysis
+[**Link**](https://github.com/AmmanSajid1/Global-Covid-19-Analysis)<br>
+<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Plotly <br>
+<br>
+<br>
+### 📂 Pizza Restaurant Analysis
+[**Link**](https://github.com/AmmanSajid1/Pizza-Restaurant-Analysis)<br>
+<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Plotly <br>
+<br>
+<br>
+### 📂 Google Play Store Analysis
+[**Link**](https://github.com/AmmanSajid1/Google-Play-Store-App-Analytics)<br>
+<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Plotly <br>
+<br>
+<br>
+### 📂 Nobel Prize Analysis
+[**Link**](https://github.com/AmmanSajid1/Nobel-Prize-Analysis)<br>
+<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Plotly <br>
 <br>
 <br>
 
----
+
+
 
 
 
