@@ -47,6 +47,12 @@ This repository is contains a portfolio of data analyst projects that I have com
 <br>
 <br>
 
+---
+## **Dashboarding**
+### 📂 Executive Sales Report Dashboard
+[**Looker Data Studio**](https://lookerstudio.google.com/reporting/f205d790-9558-4bd8-9f66-1581348f85a2)
+<br>
+<br>
 
 
 
