@@ -17,7 +17,7 @@ This repository is contains a portfolio of data analyst projects that I have com
 <br>
 <br>
 ### 📂 Africa Economic Banking and Systematic Crisis Analysis
-[**Link**](https://github.com/AmmanSajid1/Africa-Economic-Banking-and-Systematic-Crisis-Data)br>
+[**Link**](https://github.com/AmmanSajid1/Africa-Economic-Banking-and-Systematic-Crisis-Data)<br>
 <br>
 ⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy <br>
 <br>
