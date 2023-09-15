@@ -10,6 +10,12 @@ This repository is contains a portfolio of data analyst projects that I have com
 
 
 ## **Python**
+### 📂 Netflix EDA
+[**Link**](https://github.com/AmmanSajid1/Netflix-EDA)<br>
+<br>
+⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Plotly, Wordcloud <br>
+<br>
+<br>
 ### 📂 Retail Product Sales Analytics
 [**Link**](https://github.com/AmmanSajid1/Retail-Product-Sales-Analytics)<br>
 <br>
@@ -46,6 +52,7 @@ This repository is contains a portfolio of data analyst projects that I have com
 ⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Plotly <br>
 <br>
 <br>
+
 
 ---
 ## **Dashboarding**
