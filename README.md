@@ -55,6 +55,12 @@ This repository is contains a portfolio of data analyst projects that I have com
 
 ---
 ## **Machine Learning**
+### 📂 BMW Price Regression Model
+[**Link**](https://github.com/AmmanSajid1/bmw-price-model)<br>
+<br>
+⚙️ **Library** — Pandas, Numpy, Scikit-Learn, xgboost <br>
+<br>
+<br>
 
 ---
 ## **Dashboarding**
