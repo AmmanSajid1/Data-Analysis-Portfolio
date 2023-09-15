@@ -53,6 +53,8 @@ This repository is contains a portfolio of data analyst projects that I have com
 <br>
 <br>
 
+---
+## **Machine Learning**
 
 ---
 ## **Dashboarding**
