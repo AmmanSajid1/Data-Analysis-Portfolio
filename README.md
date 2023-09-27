@@ -62,6 +62,13 @@ This repository is contains a portfolio of data analyst projects that I have com
 <br>
 <br>
 
+### 📂 Heart Disease Decision Tree Classifier
+[**Link**](https://github.com/AmmanSajid1/Heart-Disease-Decision-Tree-Classification)<br>
+<br>
+⚙️ **Library** — Pandas, Numpy, Scikit-Learn, Matplotlib <br>
+<br>
+<br>
+
 ---
 ## **Dashboarding**
 ### 📂 Executive Sales Report Dashboard
