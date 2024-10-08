@@ -1,10 +1,10 @@
-# **Data Analysis Portfolio**
+# **Data Science Portfolio**
 
 ## Introduction
 
 Hi! I'm Amman, an aspiring data professional seeking to apply my knowledge to real-world experiences.
 
-This repository is contains a portfolio of data analyst/data science projects that I have completed and showcases my skills and experience in this field. My portfolio includes projects that demonstrate my ability to gather, process, and analyze large data sets, as well as my expertise in creating meaningful insights and visualisations. Also, this portfolio showcases my ability to use data to create various machine learning models for many problem statements. 
+This repository is contains a portfolio of data analyst/data science projects that I have completed and showcases my skills and experience in this field. My portfolio includes projects that demonstrate my ability to gather, process, and analyze large data sets, as well as my expertise in creating meaningful insights and visualisations. Also, this portfolio showcases my ability to use data to create various machine learning and deep learning mdels for various problem statements and applications.
 <br>
 <br>
 
